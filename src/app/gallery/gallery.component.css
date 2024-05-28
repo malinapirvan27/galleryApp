@@ -1,0 +1,17 @@
+img {
+	width: 100%;
+	height: 500px;
+	object-fit: cover;
+  }
+  
+  .favorite:hover .text {
+	text-decoration: underline; 
+	color: rgb(219, 137, 37);/* Cambia il colore del testo al passaggio del mouse */
+  }
+  
+  /* Stile per il testo evidenziato */
+  .text {
+	font-weight: bold;
+	color: rgb(167, 83, 83);
+  }
+  
